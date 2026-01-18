@@ -1,0 +1,9 @@
+# Environment variables (NEVER COMMIT)
+.env
+backend/.env
+frontend/.env
+
+# Node / build stuff
+node_modules/
+dist/
+build/
