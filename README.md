@@ -88,11 +88,15 @@ JWT Authentication
 🧠 AI / Clinical Intelligence
 
 Python
+
 Rule-based + AI-driven Risk Analysis
+
 Medical Decision Logic
+
 Multiple AI agents
 
 🗄️ Database
 
 MongoDB
+
 Patient Case & Analysis Storage
